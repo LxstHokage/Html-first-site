@@ -8,3 +8,8 @@
 - Скачать папку "Первый сайт"
 
 - Запустить её и наслаждаться
+
+Контакты автора:
+
+[VK](https://vk.com/lxsthokage)
+[Telegram](https://t.me/lasthxkage)
