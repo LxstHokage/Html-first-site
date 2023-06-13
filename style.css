@@ -1,0 +1,34 @@
+
+h1{
+    text-align: center;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+        background-color: white;
+}
+td{
+        align-content: center;
+        border: solid;
+}
+.Dantetd{
+        background-color: red;
+        text-align: center;
+}
+.Vergiltd{
+        background-color: blue;
+        text-align: center;        
+}
+.Nerotd{
+        background-color: purple;
+        text-align: center;    
+}
+.firsttr{
+    font-style: normal;
+}
+body{
+    background-color: gray;
+}
+p{
+    text-align: center;
+}
